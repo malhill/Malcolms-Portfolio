@@ -8,9 +8,10 @@ Other notable changes:
 * Used the "Hidden Brand" Toggler from https://getbootstrap.com/docs/5.0/components/navbar/
 * Took out "navbar light" as well as other class components to customize the background image and font. 
 * Once customized, I copied and pasted the NavBar to the other tabs and connected them. 
+* Utilized the card component in bootstrap for main profile. 
 
 # CSS
-Here I inputed several background images and commented out the other ones. This will provide future versatility for special events or seasonal appearances. 
+Here I inputed several background images and commented out the other ones. This will provide future versatility for special events or seasonal appearances. Adding personal images to add personality to each tab is also important! This porfolio will represent me; so I will be adjusting several times throughout the course and I hope to make it more aesthetically appealing over time!
 
 Other notable changes:
 * Consolidated syntax to keep style uniform thoughtout the pages. 
