@@ -16,3 +16,4 @@ Here I inputed several background images and commented out the other ones. This 
 Other notable changes:
 * Consolidated syntax to keep style uniform thoughtout the pages. 
 * Needed to add space between code to differentiate different background images.
+* consolidated the white background color for the bio card.
