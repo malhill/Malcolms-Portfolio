@@ -53,6 +53,7 @@ a:hover,
     font-weight: bold;
     color: silver;
     text-decoration: none;
+    width: auto;
 }
 
 .d-flex {
@@ -71,7 +72,6 @@ a:hover,
     /* padding: 0% 20%; */
     height: 250px;
     width: 250px;
-    margin-right: 100px;
 }
 
 .card-body,
@@ -80,6 +80,7 @@ a:hover,
     font-size: 20px;
     color: black;
     background-color: white;
+    padding-top: 20px;
 }
 
 #BioCardName {
