@@ -1,6 +1,6 @@
 # <center>Malcolm's-Portfolio
 
-![Portfolio Snapshot](./assets/respsonivecapture.PNG)
+![Portfolio Snapshot](./assets/responsivecapture.PNG)
 
 A responsive and continuous update of my portfolio!
 * [Github Repository](https://github.com/malhill/Malcolms-Portfolio)
