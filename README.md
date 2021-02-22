@@ -1,4 +1,4 @@
-# <center>Malcolm's-Portfolio
+# <center>Malcolm's-Portfolio</center>
 
 ![Portfolio Snapshot](./assets/responsivecapture.PNG)
 
