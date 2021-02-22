@@ -15,6 +15,11 @@ Other notable changes:
 * Once customized, I copied and pasted the NavBar to the other tabs and connected them. 
 * Utilized the card component in bootstrap for main profile. 
 
+`Update:`
+* Updated the projects section with the following changes:   
+   Added github screenshots of the projects, and anchored them to the live app.   
+   Then added 'col' to make the images responsive.  
+
 ## CSS
 Here I inputed several background images and commented out the other ones. This will provide future versatility for special events or seasonal appearances. Adding personal images to add personality to each tab is also important! This porfolio will represent me; so I will be adjusting several times throughout the course and I hope to make it more aesthetically appealing over time!
 
@@ -22,3 +27,7 @@ Other notable changes:
 * Consolidated syntax to keep style uniform thoughtout the pages. 
 * Needed to add space between code to differentiate different background images.
 * consolidated the white background color for the bio card.
+
+`Update:`
+* Added an 'imagelinks' class to make the images uniform in size.
+* Gave the width of the 'card-row' auto to get rid of irregular height and width ratio.
